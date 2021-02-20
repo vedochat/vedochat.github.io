@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Scribbler - a responsive HTML template for coding projects and documentations
 
-You can use the [editor on GitHub](https://github.com/vedochat/vedochat.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Scribbler is a responsive HTML/CSS/Javascript template designed for developers who want to set up a small landing page and a documentation/usage page for their coding projects. It is developed with vanilla javascript and many great new CSS features, such as CSS variables and CSS grid. With performance and simplicity in mind, the template is built without any extra overhead of libraries and is easy to customize.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The template is made by [Amie Chen](http://amie-chen.com) exclusively for Codrops.
 
-### Markdown
+## Live Demo
+[Scribbler live demo](https://tympanus.net/codrops/?p=33686)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Credits
+*   [Highlight.js](https://highlightjs.org/)
+*   [Google Fonts - Nunito](https://fonts.google.com/specimen/Nunito+Sans)
+*   [Font Awesome v4](http://fontawesome.io/)
 
-```markdown
-Syntax highlighted code block
+## Misc
 
-# Header 1
-## Header 2
-### Header 3
+Follow Amie: [Dribbble](http://www.dribbble.com/amiechen01), [Github](https://github.com/amiechen), [Website](http://amie-chen.com/)
 
-- Bulleted
-- List
+Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/pages/Codrops/159107397912), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/)
 
-1. Numbered
-2. List
+[© Codrops 2018](http://www.codrops.com)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vedochat/vedochat.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
