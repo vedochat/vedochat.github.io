@@ -21,7 +21,6 @@ if (document.getElementsByClassName('demo').length > 0) {
             - recent interests
             - project portfolio
             - my philosophy`;
-  var result = str.fontsize(7);
   var speed = 60;
 
   function typeItOut () {
