@@ -4,7 +4,7 @@
 
 /* Set a background color */
 body {
-  background-color: var(--bg-color);
+  background-color: white;
   font-family: Helvetica, sans-serif;
 }
 
@@ -95,7 +95,7 @@ body {
 /* The actual content */
 .content {
   padding: 20px 30px;
-  background-color: white;
+  background-color: var(--bg-color);
   position: relative;
   border-radius: 6px;
 }
