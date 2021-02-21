@@ -12,15 +12,12 @@ var getAll = function (selector, scope) {
 // setup typewriter effect in the terminal demo
 if (document.getElementsByClassName('demo').length > 0) {
   var i = 0;
-  var txt = `what's going on
-            [welcome here; i've played a lot to make this fun; do you want to know more about me?]
-
-            ###you can start with
-
-            - work and education
-            - recent interests
-            - project portfolio
-            - my philosophy`;
+  var txt = `Welcome to my website.  
+   
+  To view specific pages, please see the menu at the top-right side.
+  
+  This page is only a small introduction about the various topics
+  available on my website.`;
   var result = txt.fontsize(7);
   var speed = 60;
 
