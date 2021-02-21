@@ -12,9 +12,9 @@ var getAll = function (selector, scope) {
 // setup typewriter effect in the terminal demo
 if (document.getElementsByClassName('demo').length > 0) {
   var i = 0;
-  var txt = `Welcome to my website.\\
-  To view specific pages, please see the menu at the top-right side.\\ 
-  This page is only a small introduction about the various topics
+  var txt = `Welcome to my website.\
+  To view specific pages, please see the menu at the top-right side.\
+  This page is only a small introduction about the various topics\
   available on my website.`;
   var result = txt.fontsize(7);
   var speed = 60;
