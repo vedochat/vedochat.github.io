@@ -16,7 +16,6 @@ if (document.getElementsByClassName('demo').length > 0) {
   To view specific pages, please see the menu at the top-right side.\
   This page is only a small introduction about the various topics\
   available on my website.`;
-  var result = txt.fontsize(7);
   var speed = 60;
 
   function typeItOut () {
