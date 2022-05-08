@@ -311,7 +311,7 @@ http://www.tooplate.com/view/2106-soft-landing
   -----------------------------------------*/
 
   #home {
-    background: url('../images/IMG_20180919_151028.jpg') no-repeat center center;
+    background: url('../images/home-bg.jpg') no-repeat center center;
     background-size: cover;
     vertical-align: middle;
     display: -webkit-box;
@@ -823,12 +823,3 @@ http://www.tooplate.com/view/2106-soft-landing
       height: 65vh;
     }
   }
-
-/*---- VEDO ----*/
-  .logo-image{
-    float: left;    
-    margin: 0 15px 0 0;
-    width: 100px;
-    height: 100px;
-    overflow: hidden;
-}
